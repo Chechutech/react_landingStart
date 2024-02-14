@@ -15,7 +15,7 @@ The landing page project aims to provide a visually appealing and user-friendly 
 
 ## 💻 Desktop Demo
 
-You can view a live demo of the landing page [here](#).
+You can view a live demo of the landing page https://react-landing-start.vercel.app/.
 
 ## Installation
 
